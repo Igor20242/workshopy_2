@@ -1,8 +1,7 @@
 #include "sensores.h"
 #include <Arduino.h>
-#include <Arduino.h>
 
-extern LiquidCrystal lcd;
+
 
 #define red 0
 #define green 1
